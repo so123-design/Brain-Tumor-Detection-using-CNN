@@ -1,1 +1,4 @@
 # Brain-Tumor-Detection-using-CNN
+Networks (CNNs). This project demonstrates the process of building a CNN-based model to classify brain tumor types from MRI images. The main goal is to design an effective model that can identify and classify four different types of brain tumors: glioma, meningioma, pituitary, and the absence of a tumor.
+
+This project walks through several key stages of the machine learning pipeline: loading and preprocessing the dataset, visualizing the data, designing the CNN architecture, training and evaluating the model, and performing predictions. Key metrics, including accuracy, precision, recall, and F1 score, are used to assess the model's performance, with a final focus on generating visual outputs such as confusion matrices to evaluate the classification results.
